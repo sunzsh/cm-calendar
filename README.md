@@ -1,5 +1,7 @@
 # element-ui组件Calendar仅渲染当月版本
 
+> cm-calendar 中的 cm 取名自 “current-month” 两个单词首字母
+
 ### 使用方法
 
 1. 复制 `cm-calendar` 文件夹及内容到自己项目中
