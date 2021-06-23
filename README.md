@@ -6,7 +6,9 @@
 
 1. 复制 `cm-calendar` 文件夹及内容到自己项目中
 2. 在要使用的页面上引入组件（路径根据自己情况修改）：
-    `import CMCalendar from '@/components/cm-calendar'`
+    ```
+    import CMCalendar from '@/components/cm-calendar'
+    ```
 3. 在 页面的 `components` 中注册组件：
     ```
     ... 
